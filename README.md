@@ -1,4 +1,4 @@
-<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/10b6c845-2703-4ddd-8c0b-2a2964c8ab03" /># Full-Stack Task Manager Dashboard
+# Full-Stack Task Manager Dashboard
 
 This is a full-stack web application built as a practical assessment to demonstrate skills in frontend, backend, and database development. The application is a simple "Task Manager Dashboard" that allows users to perform CRUD operations on tasks and view an audit log of all actions.
 
@@ -8,10 +8,7 @@ This is a full-stack web application built as a practical assessment to demonstr
 <img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/e3e3a359-a930-4f44-8936-5972ef71a352" />
 
 ## Demo Video
-
-*[(Insert the link to your demo video here.)](https://youtu.be/XDq5qpJ8orM)*
-
-[Link to Demo Video](https://www.google.com/search?q=https%27//www.your-demo-link.com)
+[Link to Demo Video](https://youtu.be/XDq5qpJ8orM)
 
 ## Features
 
